@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Government Senior Secondary School Ben</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #004080;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #0059b3;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 18px;
+        }
+        .container {
+            padding: 20px;
+        }
+        footer {
+            background-color: #004080;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Government Senior Secondary School Ben</h1>
+    </header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#mission">Mission & Vision</a>
+        <a href="#admission">Admission</a>
+        <a href="#notice">Notice</a>
+        <a href="#activities">Activities</a>
+        <a href="#departments">Departments</a>
+        <a href="#textbook">Textbook</a>
+    </nav>
+    <div class="container">
+        <section id="about">
+            <h2>About Our School</h2>
+            <p>Government Senior Secondary School Ben was established on 8th February 1951...</p>
+        </section>
+        <section id="mission">
+            <h2>Mission & Vision</h2>
+            <p>Our mission is to provide quality education and holistic development...</p>
+        </section>
+        <section id="admission">
+            <h2>Admission</h2>
+            <p>Find all the details about the admission process here...</p>
+        </section>
+        <section id="notice">
+            <h2>Notice</h2>
+            <p>Important notices and announcements...</p>
+        </section>
+        <section id="activities">
+            <h2>Activities</h2>
+            <p>Explore various extracurricular activities and student engagements...</p>
+        </section>
+        <section id="departments">
+            <h2>Departments</h2>
+            <p>Eco Club, NSS, Prahari Club, and more...</p>
+        </section>
+        <section id="textbook">
+            <h2>Textbook</h2>
+            <p>Access curriculum materials and resources...</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2025 Government Senior Secondary School Ben. All rights reserved.</p>
+    </footer>
+</body>
+</html>
